@@ -4,3 +4,6 @@
 # git add .
 # git commit -m "Install all requirements.txt"
 # git push origin main
+# pip install -r requirements.txt
+# pip list
+
